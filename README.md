@@ -1,10 +1,48 @@
-# 💫 About Me:
-I’m Taha, a Computer Science undergraduate at the University of Warwick. I like building software that feels simple to use, even when the underlying problem is complicated. I’m motivated by learning how things work deeply, then turning that understanding into practical, well structured code.<br><br> I enjoy backend and full-stack development (clean APIs, solid architecture, thoughtful UX), systems and performance work (making things faster, more reliable and easier to debug) and applied AI/ML when it helps solve real problems end to end. I also like exploring lower-level ideas from time to time, because understanding the underlying theory behind tools makes me a better engineer everywhere else.<br><br>On GitHub you’ll find projects that reflect that curiosity, from building small tools and prototypes to longer projects where I focus on correctness, documentation and making something others can run and extend. I enjoy iterative work: start with a simple version, test it, learn where it breaks and refine it until it is robust.<br><br>I’m currently focused on strengthening core CS foundations (data structures, algorithms, networks, operating systems), improving my software engineering craft (testing, code quality, design) and getting more experience building complete products from idea to deployment.<br><br>Outside of coding, I tutor maths and care a lot about explaining complex ideas clearly. I’m also into chess, hackathons and learning anything that sharpens my problem solving.<br>
+# Taha Khan
 
+Computer Science undergraduate at the University of Warwick, focused on quantitative finance, backend/full-stack engineering, applied AI/ML, optimisation and competition-driven engineering.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.mtaha@gmail.com) 
+I like projects where the technical core matters: trading strategies, simulators, ranking systems, optimisation models, reliable APIs and ML systems built from first principles.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## Portfolio Highlights
 
+| Project | What it demonstrates | Result |
+|---|---|---|
+| [Prosperity](https://github.com/TahaKhanM/Prosperity) | Options trading, Black-Scholes pricing, market making, statistical arbitrage, backtesting | IMC Prosperity: top 0.15% globally, #32 overall and #20 UK out of 22,000+ teams |
+| [CitadelTerminal](https://github.com/TahaKhanM/CitadelTerminal) | Game-playing AI, simulation, search/evaluation, Python strategy logic, Rust engine work | Citadel Securities Terminal AI Challenge: top 5 of 1000+ applicants |
+| [FoundersHQ](https://github.com/TahaKhanM/FoundersHQ) | Full-stack fintech product, FastAPI, Next.js, PostgreSQL, invoices, runway forecasting, OpenAPI | Fintech hackathon with DE Shaw / Capital One: top 5 from 150+ participants |
+| [QuantiHack](https://github.com/TahaKhanM/QuantiHack) | Ranking/data platform, backend architecture, candidate/hiring analytics, product engineering | QuantiHack with Jane Street / Optiver: top 10 from 850+ participants |
+| [foodbank-optimisation](https://github.com/TahaKhanM/foodbank-optimisation) | Linear/integer programming, simplex/MILP modelling, practical optimisation | Reduced modelled food parcel cost by 53.5% on average |
+| [neural-network-from-scratch](https://github.com/TahaKhanM/neural-network-from-scratch) | NumPy neural network, backpropagation, SGD, MNIST classification | MNIST evaluation around 94% accuracy |
+
+## Technical Strengths
+
+- **Quant finance:** market making, options pricing, Black-Scholes, statistical arbitrage, backtesting, risk-aware strategy iteration.
+- **Backend/full-stack:** Python/FastAPI, TypeScript/Next.js, REST APIs, OpenAPI documentation, PostgreSQL, SQLAlchemy, background jobs.
+- **AI/ML:** neural networks from scratch, scikit-learn workflows, model evaluation, applied ranking/analytics systems.
+- **Optimisation and algorithms:** linear programming, integer constraints, simulation, search, performance-aware competition systems.
+- **Languages:** Python, Java, Haskell, JavaScript/TypeScript, R, SQL, HTML/CSS, Git.
+
+## Selected Repositories
+
+### Quantitative finance and trading
+
+- [Prosperity](https://github.com/TahaKhanM/Prosperity): IMC Prosperity trading workspace with strategy code, research notes, options analysis, Black-Scholes pricing and backtesting tooling.
+- [CitadelTerminal](https://github.com/TahaKhanM/CitadelTerminal): Terminal AI competition workspace with Python strategy variants, simulation tooling and Rust engine integration for faster evaluation.
+
+### Product and backend engineering
+
+- [FoundersHQ](https://github.com/TahaKhanM/FoundersHQ): startup financial-data platform covering transactions, invoices, runway forecasting, search, REST endpoints and OpenAPI-backed API structure.
+- [QuantiHack](https://github.com/TahaKhanM/QuantiHack): candidate ranking and analytics platform built during a quant hackathon, with backend services and frontend prototypes.
+
+### ML, optimisation and research
+
+- [neural-network-from-scratch](https://github.com/TahaKhanM/neural-network-from-scratch): NumPy implementation of dense neural-network training and backpropagation on MNIST.
+- [foodbank-optimisation](https://github.com/TahaKhanM/foodbank-optimisation): Python optimisation model for lower-cost, nutritionally constrained food parcels.
+- [microfinance-preprint-repo](https://github.com/TahaKhanM/microfinance-preprint-repo): pandas/scikit-learn analysis of microfinance and female employment outcomes.
+- [led-panel-pong-emulator](https://github.com/TahaKhanM/led-panel-pong-emulator): C game logic and browser emulator for a 32x32 LED panel project.
+
+## Contact
+
+- Email: [contact.mtaha@gmail.com](mailto:contact.mtaha@gmail.com)
+- GitHub: [TahaKhanM](https://github.com/TahaKhanM)
