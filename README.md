@@ -2,9 +2,7 @@
 
 Computer Science undergraduate at the University of Warwick. I build trading systems, numerical models and applications in Python, Rust, TypeScript and C.
 
-I work on search under tight compute budgets, numerical correctness and reliable backend systems. My AIChessathon engine finished **2nd out of ~500 teams in AIChessathon**, scoring **10/13**.
-
-![AIChessathon Final Qualification leaderboard showing the Warwick entry in second place](assets/aichessathon-leaderboard.png)
+I work on search under tight compute budgets, numerical correctness and reliable backend systems. My chess engine finished **2nd out of ~500 teams in AIChessathon**, scoring **10/13** in Final Qualification.
 
 ## Selected projects
 
