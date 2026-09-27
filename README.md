@@ -2,12 +2,13 @@
 
 Computer Science undergraduate at the University of Warwick. I build trading systems, numerical models and applications in Python, Rust, TypeScript and C.
 
-My projects range from a Rust combat simulator for tournament search to a voice tutor that keeps speech and drawings in sync. I enjoy the parts where correctness is hard to see: checking a gradient, reproducing an exchange fill or handling an interruption halfway through a lesson.
+I work on search under tight compute budgets, numerical correctness and reliable backend systems. My chess engine, Miskeen, finished **2nd of 334 teams in AI Chessathon Final Qualification**, scoring **10/13**.
 
 ## Selected projects
 
 | Project | Technical work |
 | --- | --- |
+| [AIChessathon · Miskeen](https://github.com/TahaKhanM/AIChessathon) | Python/Numba bitboard search and a trained integer neural evaluator under a one-core, 2 GB runtime limit. Reversible state, deadline handling, differential tests and reproducible benchmarks. **2nd / 334 in Final Qualification.** |
 | [Citadel Terminal](https://github.com/TahaKhanM/CitadelTerminal) | Python game search backed by a Rust combat simulator. Evaluates attack and defence plans within an 11-second search budget, with opponent modelling and replay comparisons against the Java engine. |
 | [Prosperity](https://github.com/TahaKhanM/Prosperity) | Team trading research for IMC Prosperity 4. Inventory-aware market making, options pricing and counterparty signals, with a Rust/Python backtester and documented expiry sensitivity. |
 | [LearnWithNoura](https://github.com/TahaKhanM/LearnWithNoura) | A voice tutor with a shared whiteboard. My work covers lesson scheduling, a typed drawing compiler, interruption handling and session replay tied to what appeared on screen. |
